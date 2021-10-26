@@ -6,4 +6,6 @@ The third thing we did was add comments to the html so future coders would be ea
 The fourth thing we did is we gave all images a alt tribbute for accesability standards.
 The fith thing we did was fix the side menu so that it lines up right with all the aricle sections.
 
-Here is the completed updated webiste URL 
+Here is the completed updated webiste URL https://andrewscomput.github.io/Horiseon-Multi-Media-Marketing-update/
+
+Please contact us with any questions or concern's sincerly.
